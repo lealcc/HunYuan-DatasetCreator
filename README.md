@@ -5,7 +5,7 @@ This tool splits videos into snippets, generates image grids, and then uses a mo
 Quick Start
 Clone this repository:
 
-git clone https://github.com/YourUsername/hycreator2.git
+git clone https://github.com/lealcc/HunYuan-DatasetCreator/tree/master
 Then open the cloned folder:
 
 
